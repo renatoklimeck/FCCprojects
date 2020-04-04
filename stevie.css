@@ -1,0 +1,50 @@
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+h3 {
+  position: relative;
+  top: -15px;
+    font-size: 20px;
+  font-weight: lighter;
+}
+#header {
+  background-color: rgb(233,235,238);
+  padding: 30px;
+  text-align: center;
+  color: #1E2229;
+    font-family: montserrat;
+}
+#image {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+section {
+background-color: rgb(233,235,238);
+    padding: 50px;
+  color: #1E2229;
+  font-family: 'montserrat', sans-serif;
+}
+.subtitle {
+  text-align: center;
+}
+ul {
+  line-height: 2em;
+
+}
+#text-read-more {
+  text-align: center;
+  font-size: 20px;
+}
+#img-caption {
+  text-align: center;
+  font-size: 20px;
+    padding: 15px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  
+}
